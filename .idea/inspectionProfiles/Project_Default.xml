@@ -1,0 +1,36 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="21">
+            <item index="0" class="java.lang.String" itemvalue="tensorflow" />
+            <item index="1" class="java.lang.String" itemvalue="opencv-python" />
+            <item index="2" class="java.lang.String" itemvalue="numpy" />
+            <item index="3" class="java.lang.String" itemvalue="isodate" />
+            <item index="4" class="java.lang.String" itemvalue="azure-ai-formrecognizer" />
+            <item index="5" class="java.lang.String" itemvalue="azure-common" />
+            <item index="6" class="java.lang.String" itemvalue="filetype" />
+            <item index="7" class="java.lang.String" itemvalue="atri" />
+            <item index="8" class="java.lang.String" itemvalue="jsonpickle" />
+            <item index="9" class="java.lang.String" itemvalue="rembg" />
+            <item index="10" class="java.lang.String" itemvalue="wcwidth" />
+            <item index="11" class="java.lang.String" itemvalue="python-multipart" />
+            <item index="12" class="java.lang.String" itemvalue="onnxruntime" />
+            <item index="13" class="java.lang.String" itemvalue="fastapi" />
+            <item index="14" class="java.lang.String" itemvalue="flatbuffers" />
+            <item index="15" class="java.lang.String" itemvalue="gdown" />
+            <item index="16" class="java.lang.String" itemvalue="atri-utils" />
+            <item index="17" class="java.lang.String" itemvalue="mpmath" />
+            <item index="18" class="java.lang.String" itemvalue="imagehash" />
+            <item index="19" class="java.lang.String" itemvalue="pysocks" />
+            <item index="20" class="java.lang.String" itemvalue="uvicorn" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
